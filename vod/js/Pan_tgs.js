@@ -54,7 +54,7 @@ import { cheerio, Crypto, Encrypt, JSONbig } from '../../core/core/uz3lib.js'
 // 请勿删减，可以新增
 
 const appConfig = {
-    _webSite: '123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman&百度¹@bdwpzhpd&百度²@BaiduCloudDisk',
+    _webSite: '豆豆资源库@ddzyk001&豆豆123@ddyun123&豆豆天翼@ddyun189&123资源@zyfb123&天翼日更@tianyirigeng&天翼臻影@tyysypzypd&夸克UC@ucquark&夸克电影@Q_dianying&夸克剧集@Q_dianshiju&夸克动漫@Q_dongman&百度¹@bdwpzhpd&百度²@BaiduCloudDisk',
     /**
      * 网站主页，uz 调用每个函数前都会进行赋值操作
      * 如果不想被改变 请自定义一个变量
@@ -66,7 +66,7 @@ const appConfig = {
         this._webSite = value
     },
 
-    tgs: 'https://t.me/s/',
+    tgs: 'https://tgsou.5868788.xyz/s/',
     _tgsInitialized: false, // 标记是否已初始化代理地址
 
     _uzTag: '',
