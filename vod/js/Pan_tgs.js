@@ -66,7 +66,7 @@ const appConfig = {
         this._webSite = value
     },
 
-    tgs: 'https://t.me/s/',
+    tgs: 'https://tgsou.5868788.xyz/s/',
     _tgsInitialized: false, // 标记是否已初始化代理地址
 
     _uzTag: '',
